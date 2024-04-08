@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Edward N. Ndukui from Nairobi, Kenya.
-- 👀 I’m interested in everything Java EE, and native Android (though I work on Xamarin and Flutter projects every now and then).
+- 👀 I’m interested in everything Java EE, Dart, Android (native), Flutter (iOS & Android), and Xamarin (iOS & Android).
 - 🌱 I’m currently learning to be better at working with MongoDB.
-- 💞️ I’m looking to collaborate on OSS for climate-based or motorsports non-profit projects.
+- 💞️ I’m looking to collaborate on OSS for climate-tech, agri-tech, and motorsports projects.
 - 📫 How to reach me edward@chaward.co.ke
 
 <!---
